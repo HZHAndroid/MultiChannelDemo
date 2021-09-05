@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MultiChannelDemo</string>
+    <string name="log">i am log</string>
+</resources>
